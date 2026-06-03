@@ -1,0 +1,16 @@
+{
+  "entries": 1500,
+  "unique_terms": 1500,
+  "unique_examples": 1500,
+  "unique_why": 1500,
+  "grammar_lessons": 17,
+  "parts_of_speech": 10,
+  "scenes": 7,
+  "audio_files": 1500,
+  "contains_elder_word_in_ui_data": false,
+  "bad_last_explanation_found": false,
+  "browser_voice_first": true,
+  "bad_generated_phrases_found": false,
+  "quality_patch": "v5.2 final content and pronunciation patch",
+  "changed_audio_regenerated": 2
+}
