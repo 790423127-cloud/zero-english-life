@@ -1,16 +1,9 @@
 {
-  "entries": 1500,
-  "unique_terms": 1500,
-  "unique_examples": 1500,
-  "unique_why": 1500,
-  "grammar_lessons": 17,
-  "parts_of_speech": 10,
-  "scenes": 7,
-  "audio_files": 1500,
-  "contains_elder_word_in_ui_data": false,
-  "bad_last_explanation_found": false,
-  "browser_voice_first": true,
-  "bad_generated_phrases_found": false,
-  "quality_patch": "v5.2 final content and pronunciation patch",
-  "changed_audio_regenerated": 2
+  "version": "v7_beautified",
+  "vocab_items": 1500,
+  "scenario_count": 12,
+  "scenario_sentence_count": 110,
+  "scenario_has_chinese_meaning": true,
+  "audio_mode": "browser_speech",
+  "ui_update": "简洁美化版：卡片层次、按钮样式、场景页面、手机适配和护眼视觉优化"
 }
