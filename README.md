@@ -1,13 +1,10 @@
-# 零基础生活英语学习网站
+# 零基础生活英语学习网站 v11
 
-这是 GitHub Pages 可直接发布的静态网页版本。
+v11 更新：
 
-## 文件
+- 二次检查 1500 条例句与“为什么这样用”
+- 丰富十大词性解释
+- 图片词汇改为精确匹配，移除容易误配图的词
+- 测试答对自动下一题，答错显示正确答案和解释
 
-- `index.html`：完整网页，已内嵌词库、语法、场景和界面样式。
-- `.nojekyll`：让 GitHub Pages 直接按静态文件发布。
-- `validation.json`：内容校验信息。
-
-## 发布
-
-GitHub Pages 设置：Deploy from a branch → main → /(root)。
+GitHub Pages 上传文件：index.html、.nojekyll、README.md、validation.json。

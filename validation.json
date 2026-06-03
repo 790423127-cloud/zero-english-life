@@ -1,9 +1,21 @@
 {
-  "version": "v7_beautified",
-  "vocab_items": 1500,
-  "scenario_count": 12,
-  "scenario_sentence_count": 110,
-  "scenario_has_chinese_meaning": true,
-  "audio_mode": "browser_speech",
-  "ui_update": "简洁美化版：卡片层次、按钮样式、场景页面、手机适配和护眼视觉优化"
+  "version": "v11_checked_visual_quiz",
+  "total_items": 1500,
+  "unique_terms": 1500,
+  "unique_examples": 1500,
+  "unique_why": 1500,
+  "parts_of_speech_lessons": 10,
+  "exact_checked_picture_words": 292,
+  "quiz_text_coverage": "all 1500 vocabulary/phrase items",
+  "quiz_picture_coverage": "only exact checked picture vocabulary",
+  "quiz_behavior": [
+    "correct answer auto-next",
+    "wrong answer shows correct answer, example, Chinese meaning and explanation"
+  ],
+  "removed_or_avoided": [
+    "fuzzy substring picture matching",
+    "picture tests from ambiguous/abstract words",
+    "看中文选图",
+    "看图选中文"
+  ]
 }
