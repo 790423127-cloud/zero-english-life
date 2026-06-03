@@ -1,21 +1,18 @@
 {
-  "version": "v11_checked_visual_quiz",
+  "version": "v13_unique_examples",
   "total_items": 1500,
   "unique_terms": 1500,
   "unique_examples": 1500,
-  "unique_why": 1500,
-  "parts_of_speech_lessons": 10,
-  "exact_checked_picture_words": 292,
-  "quiz_text_coverage": "all 1500 vocabulary/phrase items",
-  "quiz_picture_coverage": "only exact checked picture vocabulary",
-  "quiz_behavior": [
-    "correct answer auto-next",
-    "wrong answer shows correct answer, example, Chinese meaning and explanation"
-  ],
-  "removed_or_avoided": [
-    "fuzzy substring picture matching",
-    "picture tests from ambiguous/abstract words",
-    "看中文选图",
-    "看图选中文"
-  ]
+  "unique_usage_notes": 1500,
+  "forbidden_template_hits": {
+    "Can you explain the word": 0,
+    "遇到不懂的词时": 0,
+    "这里把": 0,
+    "学习者记住后": 0,
+    "Can you show me how to was": 0,
+    "Can you show me how to were": 0,
+    "This option feels": 0
+  },
+  "known_bad_example_hits": 0,
+  "note": "v13 rewrites vocabulary examples and usage notes to remove repeated “explain the word / put word into sentence” pattern; grammar/navigation/features remain from v12."
 }
